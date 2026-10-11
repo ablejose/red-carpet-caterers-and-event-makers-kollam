@@ -1,0 +1,57 @@
+{
+  "slug": "red-carpet-caterers-and-event-makers-kollam",
+  "name": "Red Carpet Caterers & Event Makers",
+  "shortName": "Red Carpet Caterers & Event Makers",
+  "descriptor": "Catering & Events",
+  "address": "Sreevilasom Nagar 162, PO, Vadakkevila, Kollam, Keralam 691010",
+  "area": "Vadakkevila",
+  "city": "Kollam",
+  "district": "Kollam",
+  "region": "Kerala",
+  "postalCode": "691010",
+  "geo": {
+    "lat": 8.881053699999999,
+    "lng": 76.6199403
+  },
+  "mapsLink": "https://maps.google.com/?cid=10786547066451801300",
+  "phone": "+91 86060 66168",
+  "whatsapp": "918606066168",
+  "hours": "Open 24 hours · all days",
+  "opens": "00:00",
+  "closes": "23:59",
+  "rating": 5,
+  "reviewCount": 83,
+  "reviews": [
+    {
+      "name": "Arjun Gopinath",
+      "rating": 5,
+      "quote": "Excellent service and incredible food! Mr. Askar from Red Carpet Caterers is a true professional who pays attention to the finer details. They hosted my son's birthday at our residence in Kollam, and the quality of the dishes exceeded all expectations. Highly recommended for any occasion!"
+    },
+    {
+      "name": "chakkramakkil jojo",
+      "rating": 5,
+      "quote": "Absolutely Flawless! Red Carpet Caterers and Event Makers is the gold standard. From the very first consultation to the final execution, their team was professional, attentive, and incredibly organized. The food was divine,beautifully presented and all our guests raved about the quality. But what truly set them apart was the service."
+    },
+    {
+      "name": "Saira Theruvathveettil",
+      "rating": 5,
+      "quote": "Red Carpet Caters is an excellent choice for any event. Their food is delicious, well-prepared, and beautifully presented, making every meal a memorable experience. The team is highly professional, ensuring seamless service and a well-organized event."
+    },
+    {
+      "name": "gazal jalal",
+      "rating": 5,
+      "quote": "Attended a fantastic event hosted by Red Carpet Caterers, and I couldn’t be more impressed! The food was absolutely delicious, with a great variety and top-notch presentation. The team was highly professional, ensuring everything ran smoothly and making guests feel truly welcomed."
+    },
+    {
+      "name": "jazma jalal",
+      "rating": 5,
+      "quote": "I recently hired Red Carpet Caterers & Event Makers for my function and I’m so glad I did! From start to finish, they were incredible. The food was outstanding, delicious, beautifully presented, and loved by all my guests."
+    }
+  ],
+  "gallery": [
+    "gallery/01.webp",
+    "gallery/02.webp",
+    "gallery/03.webp"
+  ],
+  "url": "https://red-carpet-caterers-and-event-maker.vercel.app"
+}
